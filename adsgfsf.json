@@ -2,9 +2,9 @@ bannerIDBegin      bannerIDLast
 interstitialIDBegin          interstitialIDLast
 rewardIDBegin                    rewardIDlast
 
-FANbannerIDBeginIMG_16_9_LINK       FANbannerIDLast
-FANinterstitialIDBeginIMG_16_9_LINK      FANinterstitialIDLast
-FANrewardIDBeginVID_HD_16_9_15S_APP_INSTALL      FANrewardIDLast
+FANbannerIDBegin       FANbannerIDLast
+FANinterstitialIDBegin      FANinterstitialIDLast
+FANrewardIDBegin      FANrewardIDLast
 
 UnityAppIdIDBegin4634407UnityAppIdIDLast
 unitybannerIDBegin                   unitybannerIDLast
